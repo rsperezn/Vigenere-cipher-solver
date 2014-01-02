@@ -1,2 +1,2 @@
-Complete Netbeans project that breaks the  Viginiere cypher by Kasiski's
+Complete Netbeans project that breaks the  Vigenere cipher by Kasiski's
 test and frequency analysis.
